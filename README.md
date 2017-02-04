@@ -1,5 +1,7 @@
 # Universal Router
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/universal-router.svg)](https://greenkeeper.io/)
+
 [![NPM version](http://img.shields.io/npm/v/universal-router.svg?style=flat-square)](https://www.npmjs.com/package/universal-router)
 [![NPM downloads](http://img.shields.io/npm/dm/universal-router.svg?style=flat-square)](https://www.npmjs.com/package/universal-router)
 [![Build Status](http://img.shields.io/travis/kriasoft/universal-router/master.svg?style=flat-square)](https://travis-ci.org/kriasoft/universal-router)
